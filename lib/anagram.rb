@@ -12,7 +12,6 @@ end
 def match(array)
  wordArray = %w(@word)
  wordArray.split
-end
 end 
 
 end
