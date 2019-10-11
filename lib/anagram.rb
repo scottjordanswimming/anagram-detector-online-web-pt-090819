@@ -13,8 +13,7 @@ end
 def match(array)
   x = word.split("")
   x.sort
-  y = array.sort
-  y
+  array
 end 
 
 
