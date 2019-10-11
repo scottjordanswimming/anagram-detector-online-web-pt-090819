@@ -13,7 +13,9 @@ end
 def match(array)
   x = word.split("")
   x.sort
-  array.each {|el| if el.split.sort == x puts el }
+  array.each do |el| 
+    if el.split.sort == x 
+      puts el
 end
 end
 end 
