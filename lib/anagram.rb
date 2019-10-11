@@ -11,7 +11,7 @@ class Anagram
 end
 
 def match(array)
- wordArray = %w(@word)
+ if %w(@word) == 
 
  wordArray.split("")
  binding.pry
