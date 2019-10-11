@@ -15,6 +15,7 @@ def match(array)
   x.sort
   array.each {|el| if el.split.sort == x puts el }
 end
+end
 end 
 
 
