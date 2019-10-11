@@ -12,7 +12,7 @@ end
 
 def match(array)
   x = word.split("")
-  x
+  x.sort
 end 
 
 
