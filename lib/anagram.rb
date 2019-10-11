@@ -16,7 +16,6 @@ def match(array)
   array.each do |el| 
     el.split.sort
 end
-end
 end 
 
 
