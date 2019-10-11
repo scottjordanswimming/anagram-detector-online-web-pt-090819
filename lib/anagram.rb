@@ -11,6 +11,7 @@ class Anagram
 end
 
 def match(array)
+  arr = []
   x = word.split("")
   x.sort
   array.each do |el| 
