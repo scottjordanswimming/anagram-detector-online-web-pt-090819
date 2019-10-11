@@ -1,4 +1,4 @@
-# Your code goes here!
+
 require 'pry'
 class Anagram
   
@@ -16,7 +16,6 @@ def match(array)
  wordArray.split("")
  
 end 
- binding.pry
 
 
 end
