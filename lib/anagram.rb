@@ -17,7 +17,7 @@ def match(array)
   array.each do |el| 
   
     if el.split("").sort == x.sort 
-      puts el
+      arr << el
     end
 end
 end 
