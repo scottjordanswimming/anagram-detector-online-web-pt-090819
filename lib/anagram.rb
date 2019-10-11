@@ -10,7 +10,8 @@ class Anagram
 end
 
 def match(array)
-  %w(@word)
+ wordArray = %w(@word)
+ wordArray.split
 end
 end 
 
