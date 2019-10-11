@@ -15,7 +15,7 @@ def match(array)
   x.sort
   array.each do |el| 
     binding.pry
-    el.split.sort
+    
 end
 end 
 
