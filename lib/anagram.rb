@@ -11,7 +11,7 @@ class Anagram
 end
 
 def match(array)
- puts array
+ array
 end 
 
 
