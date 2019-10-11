@@ -13,7 +13,7 @@ end
 def match(array)
   x = word.split("")
   x.sort
-  array.each {|el| puts el
+  array.each {|el| el}
 end 
 
 
