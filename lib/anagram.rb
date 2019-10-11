@@ -16,6 +16,6 @@ def match(array)
  wordArray.split("")
  
 end 
-
+binding.pry
 
 end
