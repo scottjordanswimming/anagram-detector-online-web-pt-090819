@@ -12,7 +12,7 @@ end
 
 def match(array)
   
- @word
+ %w(@word)
 end 
 
 
