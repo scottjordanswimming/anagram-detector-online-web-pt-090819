@@ -6,7 +6,7 @@ class Anagram
   
   
   
-  def initialization
+  def initialize(word)
     @word = word
 end
 
