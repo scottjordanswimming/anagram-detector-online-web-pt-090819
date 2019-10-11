@@ -14,6 +14,7 @@ def match(array)
   x = word.split("")
   x.sort
   array.each {|el| el}
+  binding.pry
 end 
 
 
