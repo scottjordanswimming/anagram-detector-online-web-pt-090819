@@ -11,7 +11,8 @@ class Anagram
 end
 
 def match(array)
- array
+  
+ @word
 end 
 
 
