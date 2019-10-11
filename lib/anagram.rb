@@ -13,6 +13,7 @@ end
 def match(array)
  wordArray = %w(@word)
  wordArray.split
+ binding.pry
 end 
 
 
