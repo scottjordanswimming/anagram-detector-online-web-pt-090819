@@ -20,6 +20,7 @@ def match(array)
       arr << el
     end
 end
+arr
 end 
 
 
