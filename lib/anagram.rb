@@ -12,10 +12,11 @@ end
 
 def match(array)
  wordArray = %w(@word)
- binding.pry
+
  wordArray.split
  
 end 
+ binding.pry
 
 
 end
