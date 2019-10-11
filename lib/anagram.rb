@@ -10,8 +10,7 @@ class Anagram
 end
 
 def match(array)
-  if array == @word
-  array
+  
 end
 end 
 
