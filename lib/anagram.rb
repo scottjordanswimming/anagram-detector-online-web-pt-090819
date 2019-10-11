@@ -17,6 +17,7 @@ def match(array)
     binding.pry
     if el.split("").sort == x.sort 
       puts el
+    end
 end
 end 
 
