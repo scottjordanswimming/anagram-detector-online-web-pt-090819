@@ -14,4 +14,6 @@ def match(array)
  wordArray.split
 end 
 
+wordArray.split
+
 end
